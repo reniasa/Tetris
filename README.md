@@ -19,4 +19,5 @@ int figures[blockVariations][blockLenght] =
 };
 ```
 so block variations and block length are like in classic tetris.
-
+<br/>
+![alt text](https://github.com/reniasa/Tetris/blob/master/SFML/Screenshots/Screenshot_1.png)
