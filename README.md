@@ -3,9 +3,9 @@ Tetris game in C++ using SFML <br /> <br />
 All graphic is made from 21x21px squares stored in this file <br /> <br />
 ![alt text](https://github.com/reniasa/Tetris/blob/master/SFML/element.jpg)
 <br /> <br />
-First square is responsible for board color, left are for the shapes.
+First square is responsible for board color, left ones are for the shapes.
 <br />
-Shapes, called also as blocks are generating from two dimensional array<br/>
+Shapes, called also as blocks are generated from two dimensional array<br/>
 ```c#
 int figures[blockVariations][blockLength] =
 {
@@ -24,6 +24,6 @@ Idea behind the array is explained here
 <br /> <br />
 ![alt text](https://github.com/reniasa/Tetris/blob/master/SFML/Screenshots/example.jpg) etc.
 <br /> <br />
-Game is starting after run the application and have no end condition. <br /> <br />
-Lines are checked always before generating new block to control, so when the line from the blocks is completed, it will vanish and moving the remaining blocks downwards for each vanish line.<br /> <br />
+Game is starts after running the application and have no end condition. <br /> <br />
+Lines are checked always before generating new block to control, so when the line from the blocks is completed, it will vanish and move the remaining blocks downwards for each vanish line.<br /> <br />
 ![alt text](https://github.com/reniasa/Tetris/blob/master/SFML/Screenshots/Screenshot_1.png)
