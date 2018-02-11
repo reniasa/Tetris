@@ -24,6 +24,6 @@ Idea behind the array is explained here
 <br /> <br />
 ![alt text](https://github.com/reniasa/Tetris/blob/master/SFML/Screenshots/example.jpg) etc.
 <br /> <br />
-Game is starting after run the application and have no end condition. <br/>
-Lines are checked always before generating new block to control, so when the line from the blocks is completed, it will vanish and moving the remaining blocks downwards for each vanish line.<br/>
+Game is starting after run the application and have no end condition. <br /> <br />
+Lines are checked always before generating new block to control, so when the line from the blocks is completed, it will vanish and moving the remaining blocks downwards for each vanish line.<br /> <br />
 ![alt text](https://github.com/reniasa/Tetris/blob/master/SFML/Screenshots/Screenshot_1.png)
